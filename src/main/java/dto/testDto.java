@@ -5,4 +5,5 @@ package dto;
  */
 public class testDto {
     private String smth = "Smth";
+    private int count = 1;
 }
